@@ -1,0 +1,13 @@
+{
+  "systems": [
+    {
+      "name": "2026最新系统",
+      "vmware_version": "16.1.2 build-17966106",
+      "files": [
+        { "name": "vmware-vmx.exe", "size": 12035492 },
+        { "name": "BIOS.440.ROM", "size": 524288 }
+      ],
+      "download_url": "https://cdn.jsdelivr.net/gh/893555519/files@main/2026最新系统.zip"
+    }
+  ]
+}
